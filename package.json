@@ -1,5 +1,5 @@
 {
-  "name": "restaurant-starter",
+  "name": "restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "framer-motion": "^7.5.3",
+    "postcss": "^8.4.17",
+    "react-datepicker": "^4.8.0",
+    "react-icons": "^4.4.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-time-picker": "^5.0.0",
+    "tailwindcss": "^3.1.8"
   }
 }
